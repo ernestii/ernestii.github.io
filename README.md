@@ -39,7 +39,7 @@ My works for college (2016-2018)
 * https://ernestii.github.io/anuizotl/
 * https://ernestii.github.io/motioncss
 * https://ernestii.github.io/college-aiwa-website/ (git: https://github.com/ernestii/college-aiwa-website)
-* [Bose Headphones Landing](https://ernestii.github.io/comp1054-project2/) [GitHub Repo](https://github.com/ernestii/comp1054-project2)
+* [Bose Headphones Landing](https://ernestii.github.io/comp1054-project2/) | [GitHub Repo](https://github.com/ernestii/comp1054-project2)
 * https://github.com/ernestii/Translate
 * https://a1-portfolio.herokuapp.com/ 
 * https://ernestii.github.io/perfect404/ 
