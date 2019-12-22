@@ -1,12 +1,24 @@
-# ernestii.github.io
+# Ernest Iliiasov
+Sr. Full-Stack Javascript Developer based in Toronto, ON.
 
-## Vuelibs.org
+
+## Social Media
+* Github: https://github.com/ernestii/
+* LinkedIn https://www.linkedin.com/in/ernesti/
+* Twitter https://twitter.com/arcdiff
+* Behance: https://www.behance.net/ernest_iliiasov 
+
+
+## Works
+Most of these works were done by me single-handedly.
+
+### Vuelibs.org
 Vue.js, Mongo
 
 https://vuelibs.org 
 
 
-## AnnouncementBar
+### AnnouncementBar
 Vue.js, Nuxt, Firebase, FastSpring
 
 https://announcementbar.com
@@ -14,14 +26,14 @@ https://announcementbar.com
 https://announcementbar.com/auth/signup 
 
 
-## Behance
+### Behance
 My early design works.
 * https://www.behance.net/ernest_iliiasov 
 * https://www.behance.net/gallery/23645899/Travel-AlterEgo 
 * https://www.behance.net/gallery/23645199/PALM-Our-studio-design 
 
 
-## College Projects
+### College Projects
 My works for college (2016-2018)
 * https://ernestii.github.io/martian/
 * https://ernestii.github.io/anuizotl/
