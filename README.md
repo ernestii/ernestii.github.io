@@ -13,17 +13,14 @@ Sr. Full-Stack Javascript Developer based in Toronto, ON.
 Most of these works were done by me single-handedly. More or less in chronological order.
 
 ### Vuelibs.org (Early 2019)
-Vue.js, Mongo
-
-https://vuelibs.org 
+Vue.js, Mongo.
+* https://vuelibs.org 
 
 
 ### AnnouncementBar (Early 2019)
-Vue.js, Nuxt, Firebase, FastSpring
-
-https://announcementbar.com
-
-https://announcementbar.com/auth/signup 
+Vue.js, Nuxt, Firebase, FastSpring.
+* Landing page https://announcementbar.com
+* App (never finished) https://announcementbar.com/auth/signup 
 
 
 ### On-campus Work Projects (2017-2018)
