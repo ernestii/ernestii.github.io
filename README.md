@@ -38,7 +38,7 @@ My works for college (2016-2018)
 * https://ernestii.github.io/martian/
 * https://ernestii.github.io/anuizotl/
 * https://ernestii.github.io/motioncss
-* https://ernestii.github.io/college-aiwa-website/
+* https://ernestii.github.io/college-aiwa-website/ (git: https://github.com/ernestii/college-aiwa-website)
 * https://github.com/ernestii/Translate
 * https://a1-portfolio.herokuapp.com/ 
 * https://ernestii.github.io/perfect404/ 
